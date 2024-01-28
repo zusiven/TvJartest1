@@ -27,7 +27,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Zxzj extends Spider {
-    private static final String siteUrl = "https://zxzj.vip/";
+    private static final String siteUrl = "https://www.zxzjhd.com/";
     /**
      * 播放源配置
      */
